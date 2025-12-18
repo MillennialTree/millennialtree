@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M-OO5&label=Trees&color=5b3e31&style=plastic" alt="Profile views"/>
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/M-OO5?color=8da750&style=plastic&abbreviated=false&label=Guardians+Of+Nature"/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MillennialTree?color=8da750&style=plastic&abbreviated=false&label=Guardians+Of+Nature"/>
 </p>
 
 <sub> divider credits!⠀~ ⠀[🌲](https://www.tumblr.com/uzmacchiato/790385154363359233/%F0%96%A7%B7-greencream-divider-set-%F0%96%A7%B7?source=share)
