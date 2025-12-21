@@ -11,7 +11,7 @@
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MillennialTree?color=8da750&style=plastic&abbreviated=false&label=Guardians+Of+Nature"/>
 </p>
 
-<sub> divider credits!⠀~ ⠀[🌲](https://www.tumblr.com/uzmacchiato/790385154363359233/%F0%96%A7%B7-greencream-divider-set-%F0%96%A7%B7?source=share)
+<sub> divider credits!⠀~ ⠀[🌲](https://www.tumblr.com/uzmacchiato/790385154363359233/%F0%96%A7%B7-greencream-divider-set-%F0%96%A7%B7?source=share) ⠀[🍃](https://www.tumblr.com/vg-k/803042591081955329/%E1%A1%B4%EA%AA%AB-divid%E1%A5%B1rs-by-m%E1%A5%B1-%E1%A1%A3-%E1%83%90?source=share)
 </div>
 
 <p align="center">
